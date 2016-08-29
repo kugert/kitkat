@@ -1,0 +1,19 @@
+body {
+    background-color: #cc0c00;
+    min-width: 320px;
+    font-family: 'Muller', Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 12px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
